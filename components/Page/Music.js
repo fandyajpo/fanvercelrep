@@ -26,7 +26,7 @@ const Music = () => {
             </div>
           </div>
           <p>
-            Bahasa pemrograman yang aku (PD) adalah yang di atas itu bulet bulet
+            Bahasa pemrograman yang aku PD adalah yang di atas itu bulet bulet
             gitu.
           </p>
           <p>
@@ -56,8 +56,7 @@ const Music = () => {
           <p>
             Insya&apos;allah aku bisa handle untuk user interface ini, tapi kalo
             si UI UX atau Designer ngebuat hal yang expert atau segala macem,
-            aku bakal pening, terus semisal aku bisa buat itupun, aku bakal
-            nanya ke perusahaan "wani piro?!"
+            aku bakal pening.
           </p>
         </div>
         <div>
