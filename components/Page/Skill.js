@@ -54,9 +54,9 @@ const Skill = () => {
             juga pake bahasa atau framework lain, gatau deh.
           </p>
           <p>
-            Insya'allah aku bisa handle untuk user interface ini, tapi kalo si
-            UI UX atau Designer ngebuat hal yang expert atau segala macem, aku
-            bakal pening.
+            Insya&apos;allah aku bisa handle untuk user interface ini, tapi kalo
+            si UI UX atau Designer ngebuat hal yang expert atau segala macem,
+            aku bakal pening.
           </p>
         </div>
         <div>

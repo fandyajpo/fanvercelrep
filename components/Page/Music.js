@@ -54,10 +54,10 @@ const Music = () => {
             juga pake bahasa atau framework lain, gatau deh.
           </p>
           <p>
-            Insya'allah aku bisa handle untuk user interface ini, tapi kalo si
-            UI UX atau Designer ngebuat hal yang expert atau segala macem, aku
-            bakal pening, terus semisal aku bisa buat itupun, aku bakal nanya ke
-            perusahaan "wani piro?!"
+            Insya&apos;allah aku bisa handle untuk user interface ini, tapi kalo
+            si UI UX atau Designer ngebuat hal yang expert atau segala macem,
+            aku bakal pening, terus semisal aku bisa buat itupun, aku bakal
+            nanya ke perusahaan "wani piro?!"
           </p>
         </div>
         <div>
