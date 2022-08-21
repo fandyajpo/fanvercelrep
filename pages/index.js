@@ -21,7 +21,7 @@ const Home = () => {
       </div>
 
       <Skill />
-      <div className="flex flex-row justify-between w-full gap-x-4 pb-4 ">
+      {/* <div className="flex flex-row justify-between w-full gap-x-4 pb-4 ">
         <div className=" h-full w-1/4 p-4 border shadow-md ">
           <FoodImage />
         </div>
@@ -30,7 +30,7 @@ const Home = () => {
         </div>
       </div>
       <Music />
-      <SingerPhoto />
+      <SingerPhoto /> */}
     </>
   );
 };
